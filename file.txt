@@ -1,0 +1,7 @@
+SHELL SCRIPTING
+1. step1- vim filename
+2. step2- click i to edit 
+3. step3- #!/bin/bash -> declaring bash script
+4. step4- touch file name "name with ext" -> to create a file
+5. step5- echo "type what ever you need" -> to add text in the file
+6. step6- rm file name with extension -> To delete or remove the file
